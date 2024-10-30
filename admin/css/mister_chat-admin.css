@@ -1,0 +1,9 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+ #mister_chat_setting_key
+ {
+     min-width: 300px;
+ }

@@ -1,0 +1,22 @@
+form fieldset input {
+    padding: 5px 20px 5px 20px !important;
+    width: 20%;
+    color: #000;
+    margin-top: 15px;
+}
+
+form fieldset #contact-submit {
+    margin-top: 15px;
+    padding: 10px 20px;
+    color: #fff;
+    background-color: #ff6e1d;
+    border: 1px solid #ff6e1d;
+    border-radius: 5px;
+}
+
+form fieldset #contact-submit:hover {
+    background: transparent;
+    color: #ff6e1d;
+    border-color: #ff6e1d;
+    cursor: pointer;
+}

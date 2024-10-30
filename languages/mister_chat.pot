@@ -1,0 +1,98 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-11-08T12:27:38+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.7.1\n"
+"X-Domain: mister_chat\n"
+
+#: wp-content/plugins/misterchat/admin/class-mister_chat-admin.php:194
+msgid "Welcome to MisterChat and thank you for the trust!"
+msgstr ""
+
+#: wp-content/plugins/misterchat/admin/class-mister_chat-admin.php:196
+msgid "You have chosen to get started with MisterChat"
+msgstr ""
+
+#: wp-content/plugins/misterchat/admin/class-mister_chat-admin.php:197
+msgid "We are currently working on creating a chat in your style and will contact you within 24 hours for an intake and compiling an FAQ that we can use in the chat conversations. Once your chat is ready you will receive a unique key that you can enter above. From that moment on, your chat is live and we receive all your website visitors with our chat! Here you don't have to do anything for yourself. Easy right?!"
+msgstr ""
+
+#: wp-content/plugins/misterchat/admin/class-mister_chat-admin.php:199
+msgid "Do you have any questions, or do you want to make adjustments to your chat; contact our support department <a href=\"mailto:support@misterchat.nu\">support@misterchat.nu</a> or call <a href=\"tel:+3178-3030023\">+3178-3030023< /a>. You can also chat via <a href=\"www.misterchat.nu\">www.misterchat.nu</a>"
+msgstr ""
+
+#: wp-content/plugins/misterchat/admin/class-mister_chat-admin.php:232
+msgid "Thanks for using our plugin | MisterChat"
+msgstr ""
+
+#: wp-content/plugins/misterchat/admin/class-mister_chat-admin.php:242
+msgid "Thanks for downloading our plugin! You can now test our unique manned live chat for FREE for 14 days!"
+msgstr ""
+
+#: wp-content/plugins/misterchat/admin/class-mister_chat-admin.php:243
+#: wp-content/plugins/misterchat/admin/class-mister_chat-admin.php:305
+msgid "How does it work?"
+msgstr ""
+
+#: wp-content/plugins/misterchat/admin/class-mister_chat-admin.php:244
+msgid "Test it for 14 days without any obligation and free of charge in your own webshop. Experience our unique approach! After downloading the plugin, we will contact you within 24 hours for a personal onboarding!"
+msgstr ""
+
+#: wp-content/plugins/misterchat/admin/class-mister_chat-admin.php:245
+msgid "You have submitted the following information: "
+msgstr ""
+
+#: wp-content/plugins/misterchat/admin/class-mister_chat-admin.php:246
+msgid "Sincerely, MisterChat"
+msgstr ""
+
+#: wp-content/plugins/misterchat/admin/class-mister_chat-admin.php:260
+msgid "Your message has been sent!"
+msgstr ""
+
+#: wp-content/plugins/misterchat/admin/class-mister_chat-admin.php:262
+msgid "Sorry, your message could not be delivered. Try again later!"
+msgstr ""
+
+#: wp-content/plugins/misterchat/admin/class-mister_chat-admin.php:301
+msgid "Welcome to MisterChat!"
+msgstr ""
+
+#: wp-content/plugins/misterchat/admin/class-mister_chat-admin.php:306
+msgid "Test it for 14 days without any obligation and free of charge in your own webshop. Experience our unique approach!<br>Download the app and we will contact you within 24 hours for a personal onboarding!"
+msgstr ""
+
+#: wp-content/plugins/misterchat/admin/class-mister_chat-admin.php:307
+msgid "Start today!"
+msgstr ""
+
+#: wp-content/plugins/misterchat/admin/class-mister_chat-admin.php:308
+msgid "Fill out the form below and start today with our unique manned live chat!"
+msgstr ""
+
+#: wp-content/plugins/misterchat/admin/class-mister_chat-admin.php:316
+msgid "First name"
+msgstr ""
+
+#: wp-content/plugins/misterchat/admin/class-mister_chat-admin.php:320
+msgid "Last name"
+msgstr ""
+
+#: wp-content/plugins/misterchat/admin/class-mister_chat-admin.php:324
+msgid "Company name"
+msgstr ""
+
+#: wp-content/plugins/misterchat/admin/class-mister_chat-admin.php:328
+msgid "Email address"
+msgstr ""
+
+#: wp-content/plugins/misterchat/admin/class-mister_chat-admin.php:332
+msgid "Phonenumber"
+msgstr ""
